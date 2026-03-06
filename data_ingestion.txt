@@ -1,2 +1,10 @@
 hey, i am not writing data in this file (bug is fixed). 
 now lets contributeto the project. 
+
+hey i am writing data in this file. 
+now lets contributeto the project. 
+
+
+learning...
+i am fixing this bug
+

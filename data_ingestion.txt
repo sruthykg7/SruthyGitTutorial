@@ -1,2 +1,6 @@
 hey i am writing data in this file. 
 now lets contributeto the project. 
+
+
+
+i am fixing this bug

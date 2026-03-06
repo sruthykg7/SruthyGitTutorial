@@ -1,2 +1,2 @@
-hey i am writing data in this file. 
+hey, i am not writing data in this file (bug is fixed). 
 now lets contributeto the project. 
